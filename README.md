@@ -43,13 +43,17 @@ La tabla `clientes` contiene:
 
 ## Capturas de pantalla
 
-##Pantalla pricipal donde salen los clientes después de ser añadidos
+Pantalla pricipal donde salen los clientes después de ser añadidos
 
 ![Clientes](./capturas/Clientes.png)
 
-##Formulario que sale cuando añades o editas algun cliente
+ Formulario que sale cuando añades o editas algun cliente
 
 ![Añadir_Clientes](./capturas/Añadir_clientes.png)
+
+
+![Busqueda](./capturas/Busqueda.jpg)
+
 ---
 
 ## Autor
